@@ -113,7 +113,15 @@ Access at: `http://35.232.149.26/helloworld`
 # Images of hello, world and helloworld microservices after deploying them on kubernetes
 
 - Hello service: 
-https://github.com/pegasus0501/272_assignment1/blob/571322cca7f1b58b35d7e41c4eeda395d723f6b7/hello-capture.PNG
+<img width="607" alt="hello-capture" src="https://github.com/user-attachments/assets/e546d826-a2b4-41a8-a69e-c04785d94256">
+
+- World service: 
+
+<img width="671" alt="world-Capture" src="https://github.com/user-attachments/assets/cfc046fc-6545-41ca-9860-6e793047144e">
+
+- Hello World service: 
+
+<img width="902" alt="helloworld-capture" src="https://github.com/user-attachments/assets/c49f63cf-f30b-477d-8153-900db42cc940">
 
 ---
 # Docker Image Links
