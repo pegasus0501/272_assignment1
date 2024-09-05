@@ -110,7 +110,12 @@ Access services at:
 Access at: `http://35.232.149.26/helloworld`
 
 ---
+# Images of hello, world and helloworld microservices after deploying them on kubernetes
 
+- Hello service: 
+https://github.com/pegasus0501/272_assignment1/blob/571322cca7f1b58b35d7e41c4eeda395d723f6b7/hello-capture.PNG
+
+---
 # Docker Image Links
 
 - [Hello Image](https://hub.docker.com/repository/docker/likhitmonavarthy0501/hello/general)
