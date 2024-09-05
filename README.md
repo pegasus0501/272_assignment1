@@ -118,4 +118,15 @@ Access at: `http://35.232.149.26/helloworld`
 - [Helloworld Image](https://hub.docker.com/repository/docker/likhitmonavarthy0501/helloworld/general)
 
 ---
+
+# Service URLs
+
+Below are the URLs to access hello, world and helloworld services:
+
+- **Hello Service**: [http://34.134.245.100/hello](http://34.134.245.100/hello)
+- **World Service**: [http://34.29.141.164/world](http://34.29.141.164/world)
+- **HelloWorld Service**: [http://35.232.149.26/helloworld](http://35.232.149.26/helloworld)
+
+
+---
 This `README.md` provides a clear guide on setting up and running the microservices.
